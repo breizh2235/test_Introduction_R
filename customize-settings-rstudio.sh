@@ -16,7 +16,7 @@ cat << EOF > ~/.config/rstudio/rstudio-prefs.json
     "check_unexpected_assignment_in_function_call": true,
     "warn_variable_defined_but_not_used": true,
     "style_diagnostics": true,
-    "editor_theme": "Vibrant Ink",
+    "editor_theme": "Chrome",
     "posix_terminal_shell": "bash"
 }
 EOF
